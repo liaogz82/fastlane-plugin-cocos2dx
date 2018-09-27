@@ -1,5 +1,5 @@
 # cocos2dx plugin
-
+**Still work in progress. Pull request are welcome**
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-cocos2dx)
 
 ## Getting Started
